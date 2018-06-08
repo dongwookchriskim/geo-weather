@@ -1,0 +1,27 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Current Weather - Alert!</title>
+	
+	<link rel="stylesheet" type="text/css" href="{% static 'weather/vendors/bootstrap/css/bootstrap.css' %}" />
+	<link rel="stylesheet" type="text/css" href="{% static 'weather/css/style.css' %}" />
+
+</head>
+<body>
+	<!-- your current weather with alert interface here -->
+	<div class="container">
+		<div class="jumbotron text-light bg-primary">
+			<h1>Congratulations</h1>
+			<p>You've set your environment up correctly! Your alert interface will live here.</p>
+		</div>
+		<a href="/weather/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Go to index!</a>
+	</div>
+</body>
+</html>
+
+
+
+
+
