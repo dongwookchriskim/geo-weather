@@ -7,13 +7,24 @@ li {
 }
 
 .map {
-  position: absolute;
-  left: 0px;
-  top: 0px;
   z-index: -1;
 }
 .map img{
+  position: absolute;
+  left: 0px;
+  top: 0px;
   width: 100%;
+  height: auto;
+}
+.time_bar {
+
+}
+.time_bar img{
+    position: absolute;
+  left: 0px;
+  top: 1400px;
+  width: 100%;
+  height: auto;
 }
 .icon{
   position: relative;
