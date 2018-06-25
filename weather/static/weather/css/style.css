@@ -16,9 +16,7 @@ li {
   width: 100%;
   height: auto;
 }
-.time_bar {
 
-}
 .time_bar img{
     position: absolute;
   left: 0px;
@@ -26,13 +24,39 @@ li {
   width: 100%;
   height: auto;
 }
-.single_city {
 
-}
 .single_city img{
     position: absolute;
   left: 0px;
   top: 150px;
+  width: 100%;
+  height: auto;
+}
+.multiple_rome img{
+    position: absolute;
+  left: 0px;
+  top: 700px;
+  width: 100%;
+  height: auto;
+}
+.multiple_madrid img{
+    position: absolute;
+  left: 0px;
+  top: 800px;
+  width: 100%;
+  height: auto;
+}
+.multiple_paris img{
+    position: absolute;
+  left: 0px;
+  top: 300px;
+  width: 100%;
+  height: auto;
+}
+.multiple_london img{
+    position: absolute;
+  left: 0px;
+  top: 100px;
   width: 100%;
   height: auto;
 }
