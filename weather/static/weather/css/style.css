@@ -26,6 +26,16 @@ li {
   width: 100%;
   height: auto;
 }
+.single_city {
+
+}
+.single_city img{
+    position: absolute;
+  left: 0px;
+  top: 400px;
+  width: 100%;
+  height: auto;
+}
 .icon{
   position: relative;
   left: 0px;
