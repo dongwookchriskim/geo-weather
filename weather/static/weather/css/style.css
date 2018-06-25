@@ -18,7 +18,7 @@ li {
 }
 
 .time_bar img{
-    position: absolute;
+  position: absolute;
   left: 0px;
   top: 1400px;
   width: 100%;
@@ -26,39 +26,45 @@ li {
 }
 
 .single_city img{
-    position: absolute;
+  position: absolute;
   left: 0px;
   top: 150px;
   width: 100%;
   height: auto;
 }
 .multiple_rome img{
-    position: absolute;
+  position: absolute;
   left: 0px;
   top: 700px;
   width: 100%;
   height: auto;
 }
 .multiple_madrid img{
-    position: absolute;
+  position: absolute;
   left: 0px;
   top: 800px;
   width: 100%;
   height: auto;
 }
 .multiple_paris img{
-    position: absolute;
+  position: absolute;
   left: 0px;
   top: 300px;
   width: 100%;
   height: auto;
 }
 .multiple_london img{
-    position: absolute;
+  position: absolute;
   left: 0px;
   top: 100px;
   width: 100%;
   height: auto;
+}
+.alert img{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
 }
 .icon{
   position: relative;
