@@ -10,15 +10,21 @@ li {
   position: absolute;
   left: 0px;
   top: 0px;
-  z-index: -1;
+  z-index: 0;
 }
 .map img{
   width: 100%;
 }
 .icon{
+  left: 0px;
+  top: 0px;
+  z-index: 1;
   margin-top: 30px;
   margin-left: 30px;
 }
 .icon img{
   width: 15%;
+}
+.weather{
+  z-index: 1;
 }
