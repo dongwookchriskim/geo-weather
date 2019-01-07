@@ -1,6 +1,7 @@
 # UIUX Project: Geo-Weather
 <!--finished product design-->
 ![Screenshot](Geo-Weather.png)
+  
 Weather application with minimal design. Geo-weather compares weather
 of several locations in one screen, while taking time into consideration. The time bar at the
 bottom allows maneuvering in time period to see weather change of all locations.
