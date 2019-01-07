@@ -1,4 +1,4 @@
-# User Experience and User Interface Project: Weather Travellers
+# UIUX Project: Geo-Weather
 <!--finished product design-->
 
 ## Design Brief (The Need)
