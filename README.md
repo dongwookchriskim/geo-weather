@@ -1,5 +1,8 @@
 # UIUX Project: Geo-Weather
 <!--finished product design-->
+<!--One paragraph to explain what it is-->
+<!--explain my approach-->
+
 
 ## Design Brief (The Need)
 You’ve been hired by an travel company (CANOE) to create a mobile weather application specifically suited for travellers. In advance, the company has determined the relevant situations, tasks and users (STUs). You will engage in an iterative design process to create an application that supports these situations and tasks for one of the two candidate users.
