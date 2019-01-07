@@ -1,6 +1,7 @@
-# User Experience and User Interface Project
+# User Experience and User Interface Project: Weather Travellers
+<!--finished product design-->
 
-## Design Brief
+## Design Brief (The Need)
 You’ve been hired by an travel company (CANOE) to create a mobile weather application specifically suited for travellers. In advance, the company has determined the relevant situations, tasks and users (STUs). You will engage in an iterative design process to create an application that supports these situations and tasks for one of the two candidate users.
 
 Situations
