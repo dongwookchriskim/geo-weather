@@ -23,8 +23,15 @@ You’ve been hired by an travel company (CANOE) to create a mobile weather appl
   
 * Users  
    A storm chaser looking to document the most extreme weather. Storm chasers typically try to move quickly from location to location. The chasers prefer efficient and precise apps where the visual design feels extreme.
-
-
+   
+   
+   
+   
+   
+   
+<!--needs cycle 1,2,3 described-->   
+   
+   
 # P1 Weather travellers
 Find an in-depth assignment description in the Google Doc [here](https://docs.google.com/document/d/1NkYk-5-kEvDQqUkZbKvcAOOfTQlVvTU36g0f_EcGxmA/edit?usp=sharing). 
 
