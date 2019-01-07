@@ -20,7 +20,7 @@ You’ve been hired by an travel company (CANOE) to create a mobile weather appl
   2. The user compares the weather forecast for several locations at a specific time.
   3. The application notifies the user of an extreme weather alert, and the user reads the alert. 
   
-* Users
+* Users  
    A storm chaser looking to document the most extreme weather. Storm chasers typically try to move quickly from location to location. The chasers prefer efficient and precise apps where the visual design feels extreme.
 
 
