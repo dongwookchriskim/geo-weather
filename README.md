@@ -81,7 +81,7 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
 ## Cycle III: High-fidelity Prototype and Reflection  
 
 ### Youtube Demonstration  
-**Click the image below**  
+<div align="center">**Click the image below**</div>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="Geo-Weather.png"/></a>
 
 
