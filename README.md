@@ -82,14 +82,6 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
 
 ### Youtube Demonstration
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S-UPxXe-UI8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7BSCgMMJoHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [![Alt text](https://img.youtube.com/vi/S-UPxXe-UI8/0.jpg)](https://www.youtube.com/watch?v=S-UPxXe-UI8)
 
 
