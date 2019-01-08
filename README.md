@@ -52,7 +52,7 @@ The user “storm chaser” moves from different locations very fast. The storm 
 | **1.Geo-Weather Forecast** | **2. Mix-Match Forecast** |
 | ---------------------- | --------------------- |
 | ![Initial-Interaction-Sketches-Geo-Weather-Forecast](Initial-Interaction-Sketches-Geo-Weather-Forecast.png) |  ![Initial-Interaction-Sketches-Mix-Match_forecast](Initial-Interaction-Sketches-Mix-Match_forecast.png) |
-|                        |                       |
+| This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date. |
 | **3. Weather Calendar**    | **4. Excelling Weather**  |
 |                        |                       |
 |                        |                       |
