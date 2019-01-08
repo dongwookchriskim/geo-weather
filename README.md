@@ -1,6 +1,6 @@
-# UIUX Project: Geo-Weather
+# UIUX Project: Geo-weather
 <!--finished product design-->
-![Screenshot](Geo-Weather.png)
+![Screenshot](Geo-weather.png)
   
 Weather application with minimal design. Geo-weather compares weather
 of several locations in one screen, while taking time into consideration. The time bar at the
@@ -50,9 +50,9 @@ The user “storm chaser” moves from different locations very fast. The storm 
 ### Ideation: Interaction Sketches  
 <!--six different ui design-->
 
-| **1.Geo-Weather Forecast** | **2. Mix-Match Forecast** |
+| **1.Geo-weather Forecast** | **2. Mix-Match Forecast** |
 | ---------------------- | --------------------- |
-| <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Mix-Match_forecast.png" width=50%></div> |
+| <div align="center"><img src="Initial-Interaction-Sketches-Geo-weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Mix-Match_forecast.png" width=50%></div> |
 | This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date.                                                                           |
 | **3. Weather Calendar**    | **4. Excelling Weather**  |
 | <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Excelling-Weather.png" width=50%></div> |
@@ -73,7 +73,7 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
   4. NOtifation page of weather change
 
 ### Peer Critique Summary
-* Peer critique on refined interaction sketch overall points out positive aspect of time bar feature described on Geo-Weather application, as it will provide storm chasing user with quick check of weather in all the locations depending on time change. However, the application still needs to further describe how locations can be edited. Good feature to add to the time bar would be a way to reset the bar to be at current time, after maneuvering around.  
+* Peer critique on refined interaction sketch overall points out positive aspect of time bar feature described on Geo-weather application, as it will provide storm chasing user with quick check of weather in all the locations depending on time change. However, the application still needs to further describe how locations can be edited. Good feature to add to the time bar would be a way to reset the bar to be at current time, after maneuvering around.  
 * Feature like adding location seemed to take up too much space, which leads to interfering of core information display. Therefore, features that are less critical will be minimized and simplified to stay direct and intuitive. Improvement on the time bar is needed, as the time and hour needs to be more specific, or better aligned with the weather information’s time resolution.  
 * Location specific information shown from my different application Mix-match Forecast can be used with Geo-weather to better display detailed weather information on specific location when the user needs. New screen will allow location specific information to be better displayed, providing what user will be looking for.
 
@@ -82,7 +82,7 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
 
 ### Youtube Demonstration  
 <div align="center">**Click the image below**</div>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="Geo-Weather.png"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="Geo-weather.png"/></a>
 
 
 
