@@ -73,9 +73,9 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
   4. NOtifation page of weather change
 
 ### Peer Critique Summary
-Peer critique on refined interaction sketch overall points out positive aspect of time bar feature described on Geo-Weather application, as it will provide storm chasing user with quick check of weather in all the locations depending on time change. However, the application still needs to further describe how locations can be edited. Good feature to add to the time bar would be a way to reset the bar to be at current time, after maneuvering around.  
-Feature like adding location seemed to take up too much space, which leads to interfering of core information display. Therefore, features that are less critical will be minimized and simplified to stay direct and intuitive. Improvement on the time bar is needed, as the time and hour needs to be more specific, or better aligned with the weather information’s time resolution.  
-Location specific information shown from my different application Mix-match Forecast can be used with Geo-weather to better display detailed weather information on specific location when the user needs. New screen will allow location specific information to be better displayed, providing what user will be looking for.
+* Peer critique on refined interaction sketch overall points out positive aspect of time bar feature described on Geo-Weather application, as it will provide storm chasing user with quick check of weather in all the locations depending on time change. However, the application still needs to further describe how locations can be edited. Good feature to add to the time bar would be a way to reset the bar to be at current time, after maneuvering around.  
+* Feature like adding location seemed to take up too much space, which leads to interfering of core information display. Therefore, features that are less critical will be minimized and simplified to stay direct and intuitive. Improvement on the time bar is needed, as the time and hour needs to be more specific, or better aligned with the weather information’s time resolution.  
+* Location specific information shown from my different application Mix-match Forecast can be used with Geo-weather to better display detailed weather information on specific location when the user needs. New screen will allow location specific information to be better displayed, providing what user will be looking for.
 
 
 ## Cycle III: High-fidelity Prototype and Reflection  
