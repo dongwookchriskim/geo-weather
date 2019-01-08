@@ -33,7 +33,7 @@ You’ve been hired by an travel company (CANOE) to create a mobile weather appl
   
 The user “storm chaser” moves from different locations very fast. The storm chaser can be best described as extreme. The mood board consists of extreme contrast or action with little complication.
   
-<div style="text-align: center"><img src="Mood-Board.png" width=80%></div>
+<div align="center"><img src="Mood-Board.png" width=80%></div>
   
 ### Theme
   1. **Saturation**
