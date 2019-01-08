@@ -50,7 +50,7 @@ The user “storm chaser” moves from different locations very fast. The storm 
 ### Ideation: Interaction Sketches  
 <!--six different ui design-->
 <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div>
-
+|<img width=100/>|<img width=100/>|
 | **1.Geo-Weather Forecast** | **2. Mix-Match Forecast** |
 | ---------------------- | --------------------- |
 | <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div> |
