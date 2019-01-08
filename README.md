@@ -51,11 +51,16 @@ The user “storm chaser” moves from different locations very fast. The storm 
 <!--six different ui design-->
 | 1.Geo-Weather Forecast | 2. Mix-Match Forecast |
 | ---------------------- | --------------------- |
-| 1.Geo-Weather Forecast | 2. Mix-Match Forecast |
+|                        |                       |
+|                        |                       |
 | 3. Weather Calendar    | 4. Excelling Weather  |
+| ---------------------- | --------------------- |
+|                        |                       |
+|                        |                       |
 | 1.Geo-Weather Forecast | 2. Mix-Match Forecast |
-| 5. Weather Where       | 6. Weather Calendar   |
-| 1.Geo-Weather Forecast | 2. Mix-Match Forecast |
+| ---------------------- | --------------------- |
+|                        |                       |
+|                        |                       |
 
 
   1. Geo-Weather Forecast
