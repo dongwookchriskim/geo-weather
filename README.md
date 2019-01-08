@@ -61,9 +61,15 @@ The user “storm chaser” moves from different locations very fast. The storm 
 | <div align="center"><img src="Initial-Interaction-Sketches-Weather-Where.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar2.png" width=50%></div> |
 | The upper half of the display can be scrolled to show consecutive days, and for each day the user can choose which location to show. Right now, 6/13 is selected and user is in process to choose which location to display. | The user can choose specific day on calendar. When chosen, list of considered location will pop out for user to decide which location’s weather will be shown on the calendar for that day. |
 
-## Cycle II: Low-fidelity Prototype  
-<div align="center"><img src="cycleIIrefined.jpg" width=80%></div>
+## Cycle II: Low-fidelity Prototype
 
+<div align="center"><img src="cycleIIrefined.jpg" width=50%></div>
+A wireframe was drawn before high-fidelity implementation to clear the specification project needed. Four key screens of the application was prototyped and detailed information or implementation needs were designed.  
+
+  1. Home page of the application with the map
+  2. Page to search and add locations to the main page
+  3. Detailed information focusing on one location of the listed locations
+  4. NOtifation page of weather change
 
 ### Wireframe  
 
