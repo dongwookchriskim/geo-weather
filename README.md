@@ -36,13 +36,13 @@ The user “storm chaser” moves from different locations very fast. The storm 
 <div align="center"><img src="Mood-Board.png" width=80%></div>
   
 ### Theme
-  1. **Saturation**
+  1. **Saturation**  
   The mood board focuses mostly on prime colors: blue and red, making the overall board feel saturated. Eliminating less vivid color from the board allowed it to be very extreme with color choice. The biggest reasoning behind was to create vivid and clear implication as how the user should feel.
 
-  2. **Isolation**
+  2. **Isolation**  
   While the mood board is filled with strong red and blue, the rest is mostly filled with black, or the absence of color. The intention behind these selections of images was to keep the focus of the user on the information shown by eliminating unnecessary components, keeping the application simple.
 
-  3. **Conflict**
+  3. **Conflict**  
   The conflict of two main colors red and blue carry certain expectation of describing something hot and cold. The shown two conflicting colors on mood board to the user will guide user to assume the information will have to do with temperature.  
   At the middle of the mood board, two prime color merges and shows violet and the overall board includes hint of white and violet to create sense of gradation between two conflicting colors.
 
