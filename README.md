@@ -84,7 +84,7 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
 
 [![Alt text](https://img.youtube.com/vi/S-UPxXe-UI8/0.jpg)](https://www.youtube.com/watch?v=S-UPxXe-UI8)  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="http://img.youtube.com/vi/S-UPxXe-UI8/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="Geo-Weather.png"/></a>
 
 
 
