@@ -1,6 +1,6 @@
 # UIUX Project: Geo-weather
 <!--finished product design-->
-![Screenshot](Geo-weather.png)
+![Screenshot](Geo-Weather.png)
   
 Weather application with minimal design. Geo-weather compares weather
 of several locations in one screen, while taking time into consideration. The time bar at the
@@ -52,7 +52,7 @@ The user “storm chaser” moves from different locations very fast. The storm 
 
 | **1.Geo-weather Forecast** | **2. Mix-Match Forecast** |
 | ---------------------- | --------------------- |
-| <div align="center"><img src="Initial-Interaction-Sketches-Geo-weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Mix-Match_forecast.png" width=50%></div> |
+| <div align="center"><img src="Initial-Interaction-Sketches-Geo-Weather-Forecast.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Mix-Match_forecast.png" width=50%></div> |
 | This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date.                                                                           |
 | **3. Weather Calendar**    | **4. Excelling Weather**  |
 | <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Excelling-Weather.png" width=50%></div> |
@@ -82,7 +82,7 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
 
 ### Youtube Demonstration  
 <div align="center">**Click the image below**</div>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="Geo-weather.png"/></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=S-UPxXe-UI8" target="_blank"><img src="Geo-Weather.png"/></a>
 
 
 
