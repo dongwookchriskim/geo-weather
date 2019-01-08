@@ -70,7 +70,7 @@ A wireframe was drawn before high-fidelity implementation to clear the specifica
   1. Home page of the application with the map
   2. Page to search and add locations to the main page
   3. Detailed information focusing on one location of the listed locations
-  4. NOtifation page of weather change
+  4. Notifation page of weather change
 
 ### Peer Critique Summary
 * Peer critique on refined interaction sketch overall points out positive aspect of time bar feature described on Geo-weather application, as it will provide storm chasing user with quick check of weather in all the locations depending on time change. However, the application still needs to further describe how locations can be edited. Good feature to add to the time bar would be a way to reset the bar to be at current time, after maneuvering around.  
