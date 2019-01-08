@@ -60,24 +60,10 @@ The user “storm chaser” moves from different locations very fast. The storm 
 | **5. Weather Where** | **6. Weather Calendar** |
 | <div align="center"><img src="Initial-Interaction-Sketches-Weather-Where.png" width=50%></div> |  <div align="center"><img src="Initial-Interaction-Sketches-Weather-Calendar2.png" width=50%></div> |
 | The upper half of the display can be scrolled to show consecutive days, and for each day the user can choose which location to show. Right now, 6/13 is selected and user is in process to choose which location to display. | The user can choose specific day on calendar. When chosen, list of considered location will pop out for user to decide which location’s weather will be shown on the calendar for that day. |
-  
-
-
-  1. Geo-Weather Forecast
-  This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time.
-  2. Mix-Match Forecast
-  Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date.
-  3. Weather Calendar
-  This application can show calendar filled with minimal weather information. For each day, you can choose which location’s weather you want to display.
-  4. Excelling Weather
-  Spreadsheet-like display of simple weather for each location, for each day. User can select which day and location to highlight to mark which place will have desired weather.
-  5. Weather Where
-  The upper half of the display can be scrolled to show consecutive days, and for each day the user can choose which location to show. Right now, 6/13 is selected and user is in process to choose which location to display.
-  6. Weather Calendar
-  The user can choose specific day on calendar. When chosen, list of considered location will pop out for user to decide which location’s weather will be shown on the calendar for that day.
-### Peer Critique  
 
 ## Cycle II: Low-fidelity Prototype  
+<div align="center"><img src="cycleIIrefined.jpg" width=80%></div>
+
 
 ### Wireframe  
 
