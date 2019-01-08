@@ -33,8 +33,8 @@ You’ve been hired by an travel company (CANOE) to create a mobile weather appl
   
 The user “storm chaser” moves from different locations very fast. The storm chaser can be best described as extreme. The mood board consists of extreme contrast or action with little complication.
   
-![MoodBoard](Mood-Board.png=80%)
-  
+![MoodBoard](Mood-Board.png)  
+<img src="Mood-Board.png" width=80%>
 ### Theme
   1. **Saturation**
   The mood board focuses mostly on prime colors: blue and red, making the overall board feel saturated. Eliminating less vivid color from the board allowed it to be very extreme with color choice. The biggest reasoning behind was to create vivid and clear implication as how the user should feel.
