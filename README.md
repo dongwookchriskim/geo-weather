@@ -63,17 +63,6 @@ The user “storm chaser” moves from different locations very fast. The storm 
 | The upper half of the display can be scrolled to show consecutive days, and for each day the user can choose which location to show. Right now, 6/13 is selected and user is in process to choose which location to display. | The user can choose specific day on calendar. When chosen, list of considered location will pop out for user to decide which location’s weather will be shown on the calendar for that day. |
   
 
-| **1.Geo-Weather Forecast** | **2. Mix-Match Forecast** |
-| ---------------------- | --------------------- |
-| ![Initial-Interaction-Sketches-Geo-Weather-Forecast](Initial-Interaction-Sketches-Geo-Weather-Forecast.png) |  ![Initial-Interaction-Sketches-Mix-Match_forecast](Initial-Interaction-Sketches-Mix-Match_forecast.png) |
-| This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date. |
-| **3. Weather Calendar**    | **4. Excelling Weather**  |
-| ![Initial-Interaction-Sketches-Weather-Calendar](Initial-Interaction-Sketches-Weather-Calendar.png) |  ![Initial-Interaction-Sketches-Excelling-Weather](Initial-Interaction-Sketches-Excelling-Weather.png) |
-| This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date. |
-| **5. Weather Where** | **6. Weather Calendar** |
-| ![Initial-Interaction-Sketches-Weather-Where](Initial-Interaction-Sketches-Weather-Where.png) |  ![Initial-Interaction-Sketches-Weather-Calendar2](Initial-Interaction-Sketches-Weather-Calendar2.png) |
-| This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time. | Like any conventional weather application, this application can represent weather for each day. However, the user can swipe each date to display wanted locations for that date. |
-
 
   1. Geo-Weather Forecast
   This application incorporates geographic representation of locations the user would be interested to visualize. The meter at the bottom represents time period you want to search, and the labels for each location will show the weather at that time.
