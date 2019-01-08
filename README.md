@@ -30,11 +30,18 @@ You’ve been hired by an travel company (CANOE) to create a mobile weather appl
    
 ## Cycle I: Investigation and Ideation  
 ### Investigation: Mood Board
-### Ideation: Interaction Sketches
-### Peer Critique
-## Cycle II: Low-fidelity Prototype
-### Wireframe
-## Cycle III: High-fidelity Prototype and Reflection
+![MoodBoard](Mood-Board.png)  
+
+### Ideation: Interaction Sketches  
+
+### Peer Critique  
+
+## Cycle II: Low-fidelity Prototype  
+
+### Wireframe  
+
+## Cycle III: High-fidelity Prototype and Reflection  
+
 
 <!--needs cycle 1,2,3 described-->   
 
